@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://{github-username}.github.io/{repo-name}",
+  "homepage": "http://{SummerBlast}.github.io/{pizza}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
